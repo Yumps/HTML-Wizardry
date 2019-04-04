@@ -66,3 +66,16 @@ h1 {
 .wrapper {
   background-color: purple;
 }
+.maybe {
+  background-color: orange;
+  width: 30%;
+  margin: 1em;
+  text-align: center;
+}
+.maybe p {
+  text-align: center;
+}
+.no {
+  margin: 0 auto;
+  width: 100%;
+}
